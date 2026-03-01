@@ -94,18 +94,6 @@ Strong foundation in **DSA, OOPS, Multithreading, and Backend System Design**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navi2510&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Navi2510&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Backend System Design  
