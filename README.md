@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navneet Singh</h1>
-<h3 align="center">Backend Java Developer | Spring Boot | Microservices | System Design Enthusiast</h3>
+<h3 align="center">Software Development Engineer - I | Java Backend Developer | Microservices Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/navneetsingh25/">
@@ -14,101 +14,109 @@
 
 ## 👨‍💻 Professional Summary
 
-Backend Java Developer with experience building **scalable, secure, and high-performance microservices** using **Java, Spring Boot, Hibernate/JPA, and MySQL**.
+Backend Java Developer with experience building scalable, high-performance backend systems using **Java, Spring Boot, Microservices, Hibernate/JPA, MySQL, and REST APIs**.
 
-Currently contributing to a **greenfield US healthcare enterprise platform (Blue Shield of California)** at Tech Mahindra, focusing on:
+Currently working at **Flipkart** in the **MAPI (Mobile API) team**, contributing to API gateway orchestration, distributed microservices, and backend systems powering the **Travel section** through integrations with platforms like **Cleartrip** and **Ixigo**.
 
-- REST API design & development  
-- Secure service architecture (JWT + RBAC)  
-- SQL query optimization  
-- Production-grade microservices  
-
-Strong foundation in **DSA, OOPS, Multithreading, and Backend System Design**.
+Experienced in backend performance optimization, microservices communication, production monitoring, and clean architecture design with a strong foundation in **DSA, OOPS, Multithreading, and Backend System Design**.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
+
 `Java (8+)` • `SQL`
 
 ### 🚀 Backend
-`Spring Boot` • `REST APIs` • `Hibernate` • `JPA` • `Spring Security`
+
+`Spring Boot` • `REST APIs` • `Hibernate` • `JPA` • `Spring Security` • `Apache Kafka`
 
 ### 🏗 Architecture
-`Microservices` • `Layered Architecture` • `MVC` • `Clean Architecture`
+
+`Microservices` • `MVC` • `Layered Architecture` • `Clean Architecture`
 
 ### 🔐 Security
+
 `JWT Authentication` • `Role-Based Access Control (RBAC)`
 
-### 🗄 Databases
-`MySQL` (Joins, Indexing, Query Optimization)
+### 🗄 Databases & Caching
 
-### 🧰 Tools
-`Git` • `GitHub` • `BitBucket` • `Maven` • `Postman` • `IntelliJ` • `Jira`
+`MySQL` • `Redis`
+
+### ☁️ DevOps & Tools
+
+`Kubernetes` • `Git` • `GitHub` • `BitBucket` • `Maven` • `Postman` • `IntelliJ IDEA` • `Jira`
+
+### 🧠 Core Concepts
+
+`OOPS` • `DSA` • `Multithreading` • `System Design Basics` • `Unit Testing`
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Tech Mahindra — Associate Software Engineer (Sept 2024 – Present)
+### 🏢 Flipkart — Software Development Engineer - I (March 2026 – Present)
 
-- Contributing to a **US Healthcare enterprise platform**
-- Designed & delivered **25+ REST APIs**
-- Optimized SQL queries on datasets exceeding **100K+ records**
-- Improved API response time by **30%**
-- Implemented **JWT-based authentication & RBAC**
-- Participating in Agile sprints, code reviews & production debugging
+* Working in the **MAPI (Mobile API) team**, contributing to Flipkart’s API gateway ecosystem handling millions of daily requests.
+* Developing backend systems powering the **Travel section** of the Flipkart app through integrations with **Cleartrip** and **Ixigo**.
+* Working on **Asgard**, a backend orchestration service responsible for aggregating responses from multiple downstream microservices.
+* Contributed to migration of services from **Rome to Asgard**, improving scalability and maintainability.
+* Integrated and optimized external REST APIs with request orchestration, response transformation, validation, and fault-tolerant communication.
+* Contributed to **Search & Browse migration**, observability improvements through **Cosmos dashboards**, and pod-level performance tuning.
+* Developed scalable backend APIs and reusable service components following clean coding and SOLID principles.
 
 ---
 
-### 🏢 Oodles Technologies — Backend Developer Intern (July 2024 – Sept 2024)
+### 🏢 Tech Mahindra — Associate Software Engineer (Sept 2024 – March 2026)
 
-- Developed & optimized **15+ REST APIs**
-- Improved integration efficiency by **35%**
-- Worked on production debugging & performance optimization
+* Contributed to a greenfield enterprise healthcare application for **Blue Shield of California** using Spring Boot microservices.
+* Designed and delivered **25+ RESTful APIs** supporting Audit, Contact Management, Role Types, and Eligibility workflows.
+* Optimized SQL queries and indexing strategies on datasets exceeding **100K+ records**, improving API response time by **30%**.
+* Implemented JWT-based authentication and role-based authorization using Spring Security.
+* Participated in Agile sprint deliveries, code reviews, debugging, API documentation, and unit testing.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 CareerHive – Job Search & Resume Platform
-**Tech:** Java, Spring Boot, MySQL
-
-- Skill-based job filtering system
-- Authentication & pagination
-- Optimized MySQL schema
-- Reduced search latency by **45%**
-- Clean architecture-based service layers
-
----
-
 ### 🔹 Order Management System (OMS)
-**Tech:** Java, Spring Boot, Spring Security, JPA, MySQL
 
-- Designed order lifecycle microservices
-- JWT authentication + RBAC
-- Enum-driven state management
-- Improved query performance by **35%**
-- Global exception handling & validation
+**Tech:** Java, Spring Boot, Spring Security, JPA/Hibernate, MySQL
+
+* Designed and developed backend microservices handling order creation, lifecycle tracking, and cancellations.
+* Implemented REST APIs with JWT-based authentication and role-based access control.
+* Managed order lifecycle states using enum-driven business logic and structured service layers.
+* Optimized MySQL queries and indexing strategies, improving performance by approximately **35%**.
+* Applied global exception handling, validation mechanisms, and pagination for production-ready APIs.
 
 ---
 
 ## 🎯 Current Focus
 
-- Backend System Design  
-- Scalable Microservices Architecture  
-- Performance Engineering  
-- Product-based company roles  
+* Scalable Backend Systems
+* Distributed Microservices
+* API Gateway & Orchestration
+* Performance Engineering
+* Backend System Design
+* Product-Based Company Engineering
+
+---
+
+## 📚 Education
+
+🎓 **Bachelor of Technology in Information Technology**
+Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
+CGPA: **8.41/10**
 
 ---
 
 ## 📫 Let's Connect
 
-📧 navneetsinghit25@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/navneetsingh25/  
-💻 GitHub: https://github.com/Navi2510  
+📧 Email: **[navneetsinghit25@gmail.com](mailto:navneetsinghit25@gmail.com)**
+🔗 LinkedIn: **linkedin.com/in/navneetsingh25**
+💻 GitHub: **github.com/Navi2510**
 
 ---
 
-⭐ Always open to collaborating on backend & microservices projects.
+⭐ Open to collaborating on backend engineering, distributed systems, and microservices-based projects.
