@@ -2,12 +2,21 @@
 <h3 align="center">Software Development Engineer - I | Java Backend Developer | Microservices Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/navneetsingh25/">
+  <a href="https://www.linkedin.com/in/navneetsingh25/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Navneet%20Singh-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Navi2510">
-    <img src="https://img.shields.io/github/followers/Navi2510?label=Follow&style=for-the-badge" />
+
+  <a href="https://github.com/Navi2510" target="_blank">
+    <img src="https://img.shields.io/github/followers/Navi2510?label=GitHub&style=for-the-badge" />
   </a>
+
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
+
+<p align="center">
+📞 +91-7007749979 • 📧 navneetsinghit25@gmail.com
 </p>
 
 ---
@@ -113,9 +122,10 @@ CGPA: **8.41/10**
 
 ## 📫 Let's Connect
 
-📧 Email: **[navneetsinghit25@gmail.com](mailto:navneetsinghit25@gmail.com)**
-🔗 LinkedIn: **linkedin.com/in/navneetsingh25**
-💻 GitHub: **github.com/Navi2510**
+📧 Email: **mailto:navneetsinghit25@gmail.com**
+🔗 LinkedIn: **https://www.linkedin.com/in/navneetsingh25/**
+💻 GitHub: **https://github.com/Navi2510**
+🌐 Portfolio: **https://navi2510.github.io/NavneetPortfolio/**
 
 ---
 
