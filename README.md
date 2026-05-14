@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/followers/Navi2510?label=GitHub&style=for-the-badge" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://navi2510.github.io/NavneetPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
