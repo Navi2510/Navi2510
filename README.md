@@ -70,7 +70,7 @@ Outside work, I built and launched <a href="https://asisto.in"><b>Assisto</b></a
 ![Jenkins](https://img.shields.io/badge/Jenkins-0F1F5C?style=flat-square&logo=jenkins&logoColor=60A5FA)
 
 ### 🏢 Oodles Technologies · Back End Developer
-<sub>📅 Mar 2024 – Sept 2024 &nbsp;·&nbsp; 📍 Gurugram, India</sub>
+<sub>📅 July 2024 – Sept 2024 &nbsp;·&nbsp; 📍 Gurugram, India</sub>
 
 - Built and optimized REST APIs with Java and Spring Boot, improving response time by **~30%**.
 - Tuned MySQL queries and applied Hibernate best practices to reduce server load.
